@@ -40,7 +40,7 @@ Classe principal que inicia o programa e gerencia o loop principal para convers�
 
 Este projeto utiliza a [ExchangeRate-API](https://www.exchangerate-api.com/) para obter as taxas de câmbio mais recentes. É necessário uma chave de API, que pode ser obtida criando uma conta gratuita no site da API.
 
-## Exemplo de Execução
+## Exemplo de Execução (conversão de 50 reais em euros)
 
 ```bash
 =====================================
